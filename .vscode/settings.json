@@ -1,0 +1,12 @@
+{
+    "tailwindCSS.lint.cssConflict": "warning",
+    "tailwindCSS.lint.invalidApply": "error",
+    "css.lint.unknownAtRules": "ignore",
+    "prettier.endOfLine": "auto",
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "ngClass",
+        "activeClassName"
+    ]
+}
